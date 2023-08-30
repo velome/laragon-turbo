@@ -1,4 +1,4 @@
-# Laragon Turbo: The Portable Dev Stack for Happy Coders 🚀
+# Laragon Turbo: The Portable WAMP Stack for Happy Devs 🚀
 
 Kickstart your local development environment with Laragon Turbo. It comes packed with Apache, PHP, MariaDB, and a Mail Catcher. Everything you need to develop like a pro, but without the fuss.
 
