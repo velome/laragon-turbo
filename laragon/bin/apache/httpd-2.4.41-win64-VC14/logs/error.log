@@ -1,0 +1,35 @@
+[Wed Aug 30 15:32:55.891939 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.0.2s mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Aug 30 15:32:55.891939 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Aug 30 15:32:55.891939 2023] [core:notice] [pid 20468:tid 420] AH00094: Command line: 'C:\\PROJECTS\\laragon\\bin\\apache\\httpd-2.4.41-win64-VC14\\bin\\httpd -d C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14'
+[Wed Aug 30 15:32:55.891939 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00418: Parent: Created child process 18292
+Apache server restarting...
+2023] [mpm_winnt:notice] [pid 18292:tid 524] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 30 15:35:51.196970 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00424: Parent: Received restart signal -- Restarting the server.
+[Wed Aug 30 15:35:52.266270 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.0.2s mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Aug 30 15:35:52.266270 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Aug 30 15:35:52.266270 2023] [core:notice] [pid 20468:tid 420] AH00094: Command line: 'C:\\PROJECTS\\laragon\\bin\\apache\\httpd-2.4.41-win64-VC14\\bin\\httpd -d C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14'
+[Wed Aug 30 15:35:52.266270 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00418: Parent: Created child process 19436
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 19436:tid 436] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 30 15:35:53.226834 2023] [mpm_winnt:notice] [pid 18292:tid 524] AH00364: Child: All worker threads have exited.
+[Wed Aug 30 15:36:01.688880 2023] [fcgid:error] [pid 18292] FastCGI process 21448 still did not exit, terminating forcefully
+[Wed Aug 30 15:39:36.898322 2023] [mpm_winnt:notice] [pid 20468:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 30 15:39:38.910591 2023] [mpm_winnt:notice] [pid 19436:tid 436] AH00364: Child: All worker threads have exited.
+[Wed Aug 30 15:42:48.274509 2023] [core:warn] [pid 15892:tid 388] AH00098: pid file C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 30 15:42:48.318773 2023] [mpm_winnt:notice] [pid 15892:tid 388] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.0.2s mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Aug 30 15:42:48.318773 2023] [mpm_winnt:notice] [pid 15892:tid 388] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Aug 30 15:42:48.318773 2023] [core:notice] [pid 15892:tid 388] AH00094: Command line: 'C:\\PROJECTS\\laragon\\bin\\apache\\httpd-2.4.41-win64-VC14\\bin\\httpd -d C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14'
+[Wed Aug 30 15:42:48.318773 2023] [mpm_winnt:notice] [pid 15892:tid 388] AH00418: Parent: Created child process 5600
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 5600:tid 504] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 30 15:43:31.563833 2023] [mpm_winnt:notice] [pid 15892:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 30 15:43:33.593964 2023] [mpm_winnt:notice] [pid 5600:tid 504] AH00364: Child: All worker threads have exited.
+[Wed Aug 30 15:45:49.711390 2023] [core:warn] [pid 11020:tid 364] AH00098: pid file C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 30 15:45:49.767400 2023] [mpm_winnt:notice] [pid 11020:tid 364] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.0.2s mod_fcgid/2.3.9 configured -- resuming normal operations
+[Wed Aug 30 15:45:49.767400 2023] [mpm_winnt:notice] [pid 11020:tid 364] AH00456: Apache Lounge VC14 Server built: Aug 12 2019 10:48:01
+[Wed Aug 30 15:45:49.767400 2023] [core:notice] [pid 11020:tid 364] AH00094: Command line: 'C:\\PROJECTS\\laragon\\bin\\apache\\httpd-2.4.41-win64-VC14\\bin\\httpd -d C:/PROJECTS/laragon/bin/apache/httpd-2.4.41-win64-VC14'
+[Wed Aug 30 15:45:49.771400 2023] [mpm_winnt:notice] [pid 11020:tid 364] AH00418: Parent: Created child process 22548
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 22548:tid 552] AH00354: Child: Starting 64 worker threads.
+[Wed Aug 30 15:46:16.794167 2023] [mpm_winnt:notice] [pid 11020:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Aug 30 15:46:18.813872 2023] [mpm_winnt:notice] [pid 22548:tid 552] AH00364: Child: All worker threads have exited.

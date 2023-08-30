@@ -1,0 +1,14 @@
+bin/laragon/laragon.log
+
+bin/sendmail/output/*
+
+data
+
+etc/apache2/sites-enabled
+
+tmp
+
+usr/tpl
+
+www/*
+!www/index.php
