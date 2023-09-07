@@ -32,7 +32,7 @@ Here's the tech stack you'll get out of the box:
 Your folder will automatically be added to your Windows host config, allowing you to access your project at `http://folderName.test`.
 
 ### MariaDB Details 🗃
-- Default root account password: `root`
+- Default root account have no password (leave empty).
 - Access phpMyAdmin at `http://localhost/phpmyadmin`.
 
 ## Why Laragon Turbo? 💡
